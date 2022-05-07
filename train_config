@@ -1,0 +1,1 @@
+{'epochs': 50, 'batch_size': 16, 'train_metrics': ['acc'], 'metrics': ['acc'], 'validation_patience': 50, 'val_every_n_batches': 100, 'log_every_n_batches': 100, 'evaluation_targets': ['valid', 'train'], 'show_examples': False, 'class_name': 'torch_trainer'}

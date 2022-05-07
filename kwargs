@@ -1,0 +1,1 @@
+{'in': ['input_ids', 'attention_mask', 'upd_entity_pos', 'upd_entity_tags'], 'in_y': ['y_ids'], 'out': ['model_output'], 'save_path': '~/.deeppavlov/models/re_rured/model', 'load_path': '~/.deeppavlov/models/re_rured/model', 'mode': 'train'}
